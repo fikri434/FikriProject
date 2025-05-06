@@ -1,3 +1,2 @@
-#contoh#
-1.nayla elrazqya putri
-2.fikri pristyono taufiqurrahman
+Nayla Elrazqya Putri
+Fikri Pristyono Taufiqurrahman
